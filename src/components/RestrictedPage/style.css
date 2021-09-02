@@ -1,0 +1,16 @@
+.boxContent {
+  width: 75%;
+  border: 1px solid wheat;
+  position: relative;
+}
+.boxContent h1 {
+  height: 15vh;
+}
+button {
+  text-align: center;
+  width: 70px;
+  margin: 10px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
